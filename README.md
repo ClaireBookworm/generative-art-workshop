@@ -29,8 +29,12 @@ function draw() {
 }
 ```
 
-If you really want to go above and beyond, here's a [link](https://editor.p5js.org/ClaireBookworm/sketches/PLh8NtWgb) to the editor code for a constantly changing triangle mesh! Code for this should also be in the GitHub along with some other sample code for various exampels I've given.
+If you really want to go above and beyond, here's a [link](https://editor.p5js.org/ClaireBookworm/sketches/PLh8NtWgb) to the editor code for a constantly changing **triangle mesh**! Code for this should also be in the GitHub along with some other sample code for various exampels I've given.
+
+Here are two codepen links to filled-in versions of the checkerboard by other people! https://codepen.io/Shvembldr/pen/zbqpBp and https://codepen.io/Shvembldr/pen/pYypqd (the corresponding image is also in the slides). 
 
 
 Cheat Sheet from online:
 ![image](https://preview.redd.it/xnm71r8aehf21.png?width=1650&format=png&auto=webp&v=enabled&s=18bc30bee2443818ea7550447ce223603ae6c1d3)
+
+Here's a link to another one: https://bmoren.github.io/p5js-cheat-sheet/. 
